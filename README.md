@@ -13,3 +13,5 @@ TestCafe 실행
 playwright 실행 관련 파일들 설치
 ### `yarn playwright test`
 Playwright 실행
+### `yarn playwright test --headed`
+Playwright headed 모드 실행
